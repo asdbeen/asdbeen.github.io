@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 3 with very long name
+title: xxxx
 description: 
 img: assets/img/7.jpg
 redirect: https://unsplash.com
